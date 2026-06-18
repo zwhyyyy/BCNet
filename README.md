@@ -86,6 +86,11 @@ Checkpoints are saved to `./checkpoints/<experiment_name>/`.
 python test.py --test_dataroot /path/to/data/test --model_path /path/to/checkpoint.pth --gpu_id 0
 ```
 
+## Download Weights
+
+You can download the model weights from Google Drive:
+- [Model Weights](https://drive.google.com/file/d/1ItUkYXH6d9L3MZmCUT6uxHwP5wePtHlC/view?usp=sharing)
+
 ## Third-Party Code
 
 This project includes DINOv3-derived code under `models/dinov3`. Keep the
